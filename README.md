@@ -9,6 +9,8 @@ gamename
 
 --main.lua
 
+--build.bat
+
 --src
 
 	--lib
