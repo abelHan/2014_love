@@ -8,14 +8,23 @@ gamename
 --conf.lua
 --main.lua
 --src
+
 	--lib
-		--init.lua		
+	
+		--init.lua	
+		
 	--app
+	
 		--MyApp.lua	
+		
 		--manager
+		
 		--models
+		
 		--scenes
+		
 		--views
+		
 	--ab
 		--init.lua
 		--function.lua	
