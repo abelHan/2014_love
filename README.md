@@ -6,7 +6,9 @@ game named 2048 by love2d
 gamename
 
 --conf.lua
+
 --main.lua
+
 --src
 
 	--lib
@@ -27,22 +29,38 @@ gamename
 		
 	--ab
 		--init.lua
+		
 		--function.lua	
+		
 		--audio
+		
 			--init.lua
+			
 		--control
+		
 			--init.lua
+			
 		--data
+		
 			--init.lua
+			
 		--network
+		
 			--init.lua
+			
 		--graphic
+		
 			--init.lua
+			
 		--utils
+		
 			--init.lua
 --res
+
 	--config
+	
 	--image
+	
 	--sound
 
 
