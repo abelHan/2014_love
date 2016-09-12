@@ -1,12 +1,16 @@
 
 
-
-
+ab = require("src.ab.init")
+local Font = love.graphics.newFont("res/font/default.ttf",18)
 function love.load()
-	require "src.ab.init"
+
 	ab.director:init()
+
+
 end
 function love.draw()
+	love.graphics.setFont(Font)	
+	love.graphics.print("你好 中国",100,100)
 	ab.director:draw()
 end
 function love.update(dt)
