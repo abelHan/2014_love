@@ -4,10 +4,10 @@
 
 function love.load()
 	require "src.ab.init"
-
+	ab.director:init()
 end
 function love.draw()
-	ab.director:darw()
+	ab.director:draw()
 end
 function love.update(dt)
 	ab.director:update(dt)
