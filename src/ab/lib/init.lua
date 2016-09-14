@@ -4,6 +4,6 @@
 
 local lib = {}
 lib.util 		= require("src.ab.lib.util")
-lib.middleclass = require("src.ab.lib.middleclass.middleclass")
+lib.middleclass = require("src.ab.lib.middleclass")
 
 return lib
